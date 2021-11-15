@@ -2,4 +2,3 @@
 
 * Messi
 * Ankara Messi
-* * Capitán America
